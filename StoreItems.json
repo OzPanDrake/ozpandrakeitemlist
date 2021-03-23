@@ -2,19 +2,19 @@
 	"items" : [
 	{
 		"abr": "advancedcomponent",
-		"price": 333,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
 	{
 		"abr": "aestheticnose",
-		"price": 975,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "AestheticNose"
 	},
 	{
 		"abr": "aestheticshaper",
-		"price": 1383,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "AestheticShaper"
 	},
@@ -68,25 +68,25 @@
 	},
 	{
 		"abr": "antigrainwarhead",
-		"price": 2000,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -110,7 +110,7 @@
 	},
 	{
 		"abr": "armorskingland",
-		"price": 2458,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "ArmorskinGland"
 	},
@@ -122,13 +122,13 @@
 	},
 	{
 		"abr": "assaultrifle",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
 	},
 	{
 		"abr": "autopistol",
-		"price": 232,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
 	},
@@ -140,7 +140,7 @@
 	},
 	{
 		"abr": "battery",
-		"price": 333,
+		"price": -10,
 		"category": "Power",
 		"defname": "Battery"
 	},
@@ -170,7 +170,7 @@
 	},
 	{
 		"abr": "beret",
-		"price": 141,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_Beret"
 	},
@@ -188,31 +188,31 @@
 	},
 	{
 		"abr": "bionicarm",
-		"price": 1725,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicear",
-		"price": 1017,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bioniceye",
-		"price": 1092,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicleg",
-		"price": 1725,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 1675,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicSpine"
 	},
@@ -242,7 +242,7 @@
 	},
 	{
 		"abr": "bolt-actionrifle",
-		"price": 425,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
 	},
@@ -326,31 +326,31 @@
 	},
 	{
 		"abr": "cataphractarmor",
-		"price": 5200,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphract"
 	},
 	{
 		"abr": "cataphracthelmet",
-		"price": 1242,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetCataphract"
 	},
 	{
 		"abr": "chainshotgun",
-		"price": 675,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChainShotgun"
 	},
 	{
 		"abr": "chargelance",
-		"price": 2258,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "chargerifle",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
@@ -398,13 +398,13 @@
 	},
 	{
 		"abr": "circadianassistant",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "CircadianAssistant"
 	},
 	{
 		"abr": "circadianhalf-cycler",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "CircadianHalfCycler"
 	},
@@ -422,7 +422,7 @@
 	},
 	{
 		"abr": "coagulator",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "Coagulator"
 	},
@@ -440,7 +440,7 @@
 	},
 	{
 		"abr": "cochlearimplant",
-		"price": 508,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "CochlearImplant"
 	},
@@ -494,13 +494,13 @@
 	},
 	{
 		"abr": "deathacidifier",
-		"price": 667,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "DeathAcidifier"
 	},
 	{
 		"abr": "deepdrill",
-		"price": 483,
+		"price": -10,
 		"category": "Production",
 		"defname": "DeepDrill"
 	},
@@ -512,7 +512,7 @@
 	},
 	{
 		"abr": "detoxifierstomach",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "DetoxifierStomach"
 	},
@@ -536,7 +536,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -566,7 +566,7 @@
 	},
 	{
 		"abr": "drillarm",
-		"price": 708,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "DrillArm"
 	},
@@ -608,31 +608,31 @@
 	},
 	{
 		"abr": "elbowblade",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "ElbowBlade"
 	},
 	{
 		"abr": "electricsmelter",
-		"price": 667,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricSmelter"
 	},
 	{
 		"abr": "electricsmithy",
-		"price": 492,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricSmithy"
 	},
 	{
 		"abr": "electricstove",
-		"price": 375,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricStove"
 	},
 	{
 		"abr": "electrictailorbench",
-		"price": 533,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricTailoringBench"
 	},
@@ -692,19 +692,19 @@
 	},
 	{
 		"abr": "empgrenades",
-		"price": 525,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
 	},
 	{
 		"abr": "emplauncher",
-		"price": 842,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_EmpLauncher"
 	},
 	{
 		"abr": "empshell",
-		"price": 92,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_EMP"
 	},
@@ -740,7 +740,7 @@
 	},
 	{
 		"abr": "fieldhand",
-		"price": 708,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "FieldHand"
 	},
@@ -752,49 +752,49 @@
 	},
 	{
 		"abr": "firefoampopper",
-		"price": 300,
+		"price": -10,
 		"category": "Misc",
 		"defname": "FirefoamPopper"
 	},
 	{
 		"abr": "firefoamshell",
-		"price": 92,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam"
 	},
 	{
 		"abr": "flakhelmet",
-		"price": 442,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
 		"abr": "flakjacket",
-		"price": 483,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "flakpants",
-		"price": 375,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_FlakPants"
 	},
 	{
 		"abr": "flakvest",
-		"price": 375,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_FlakVest"
 	},
 	{
 		"abr": "flake",
-		"price": 23,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Flake"
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": 1533,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
@@ -812,7 +812,7 @@
 	},
 	{
 		"abr": "fraggrenades",
-		"price": 442,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag"
 	},
@@ -836,7 +836,7 @@
 	},
 	{
 		"abr": "gastro-analyzer",
-		"price": 1383,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "GastroAnalyzer"
 	},
@@ -860,7 +860,7 @@
 	},
 	{
 		"abr": "gloomlight",
-		"price": 333,
+		"price": -10,
 		"category": "Special",
 		"defname": "Gloomlight"
 	},
@@ -878,7 +878,7 @@
 	},
 	{
 		"abr": "go-juice",
-		"price": 88,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "GoJuice"
 	},
@@ -932,7 +932,7 @@
 	},
 	{
 		"abr": "grenadierarmor",
-		"price": 3842,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_ArmorMarineGrenadier"
 	},
@@ -950,7 +950,7 @@
 	},
 	{
 		"abr": "gunlink",
-		"price": 575,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_Gunlink"
 	},
@@ -962,7 +962,7 @@
 	},
 	{
 		"abr": "handtalon",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "HandTalon"
 	},
@@ -992,31 +992,31 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
 	{
 		"abr": "healingenhancer",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "HealingEnhancer"
 	},
 	{
 		"abr": "heart",
-		"price": 3333,
+		"price": 833,
 		"category": "Natural",
 		"defname": "Heart"
 	},
 	{
 		"abr": "heater",
-		"price": 218,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "Heater"
 	},
 	{
 		"abr": "heavysmg",
-		"price": 592,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavySMG"
 	},
@@ -1064,7 +1064,7 @@
 	},
 	{
 		"abr": "hospitalbed",
-		"price": 667,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "HospitalBed"
 	},
@@ -1100,37 +1100,37 @@
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
 		"abr": "iedemptrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_EMP"
 	},
 	{
 		"abr": "iedfirefoamtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
 		"abr": "iedincendiarytrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "iedsmoketrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Smoke"
 	},
 	{
 		"abr": "iedtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive"
 	},
@@ -1154,31 +1154,31 @@
 	},
 	{
 		"abr": "immunoenhancer",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "Immunoenhancer"
 	},
 	{
 		"abr": "incendiarylauncher",
-		"price": 567,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryLauncher"
 	},
 	{
 		"abr": "incendiaryshell",
-		"price": 92,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_Incendiary"
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannon"
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannonTurret"
 	},
@@ -1214,13 +1214,13 @@
 	},
 	{
 		"abr": "joywire",
-		"price": 2183,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Joywire"
 	},
 	{
 		"abr": "jumppack",
-		"price": 1075,
+		"price": -10,
 		"category": "Utility",
 		"defname": "Apparel_PackJump"
 	},
@@ -1238,7 +1238,7 @@
 	},
 	{
 		"abr": "kneespike",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "KneeSpike"
 	},
@@ -1280,7 +1280,7 @@
 	},
 	{
 		"abr": "learningassistant",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "LearningAssistant"
 	},
@@ -1310,13 +1310,13 @@
 	},
 	{
 		"abr": "lmg",
-		"price": 708,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
 	},
 	{
 		"abr": "locustarmor",
-		"price": 3717,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorLocust"
 	},
@@ -1328,19 +1328,19 @@
 	},
 	{
 		"abr": "loveenhancer",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "LoveEnhancer"
 	},
 	{
 		"abr": "low-shieldpack",
-		"price": 717,
+		"price": -10,
 		"category": "Utility",
 		"defname": "Apparel_PackBroadshield"
 	},
 	{
 		"abr": "luciferium",
-		"price": 117,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -1364,13 +1364,13 @@
 	},
 	{
 		"abr": "machinepistol",
-		"price": 367,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
 	{
 		"abr": "machiningtable",
-		"price": 758,
+		"price": -10,
 		"category": "Production",
 		"defname": "TableMachining"
 	},
@@ -1382,13 +1382,13 @@
 	},
 	{
 		"abr": "marinearmor",
-		"price": 3392,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "marinehelmet",
-		"price": 1058,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
@@ -1412,7 +1412,7 @@
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": 2475,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
@@ -1442,25 +1442,25 @@
 	},
 	{
 		"abr": "mindscrew",
-		"price": 350,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Mindscrew"
 	},
 	{
 		"abr": "minigun",
-		"price": 1933,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Minigun"
 	},
 	{
 		"abr": "mini-turret",
-		"price": 492,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
 	},
 	{
 		"abr": "molotovcocktails",
-		"price": 408,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeMolotov"
 	},
@@ -1472,13 +1472,13 @@
 	},
 	{
 		"abr": "monosword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_MonoSword"
 	},
 	{
 		"abr": "mortar",
-		"price": 1058,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_Mortar"
 	},
@@ -1496,13 +1496,13 @@
 	},
 	{
 		"abr": "multi-analyzer",
-		"price": 1700,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MultiAnalyzer"
 	},
 	{
 		"abr": "neurocalculator",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "Neurocalculator"
 	},
@@ -1514,37 +1514,37 @@
 	},
 	{
 		"abr": "nuclearstomach",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "NuclearStomach"
 	},
 	{
 		"abr": "nutrientpastemeal",
-		"price": 17,
+		"price": -10,
 		"category": "Meals",
 		"defname": "MealNutrientPaste"
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Utility",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "orbitalmechclustertargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Utility",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Utility",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
 		"abr": "orbitaltradebeacon",
-		"price": 185,
+		"price": -10,
 		"category": "Misc",
 		"defname": "OrbitalTradeBeacon"
 	},
@@ -1568,7 +1568,7 @@
 	},
 	{
 		"abr": "painstopper",
-		"price": 2183,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "Painstopper"
 	},
@@ -1604,37 +1604,37 @@
 	},
 	{
 		"abr": "penoxycyline",
-		"price": 30,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Penoxycyline"
 	},
 	{
 		"abr": "personacore",
-		"price": 6667,
+		"price": -10,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
 	{
 		"abr": "personamonosword",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "personaplasmasword",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "personazeushammer",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
 	{
 		"abr": "phoenixarmor",
-		"price": 5800,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphractPhoenix"
 	},
@@ -1670,7 +1670,7 @@
 	},
 	{
 		"abr": "plasmasword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
@@ -1706,43 +1706,43 @@
 	},
 	{
 		"abr": "powerclaw",
-		"price": 1208,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "PowerClaw"
 	},
 	{
 		"abr": "prestigecataphractarmor",
-		"price": 6550,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphractPrestige"
 	},
 	{
 		"abr": "prestigecataphracthelmet",
-		"price": 1925,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetCataphractPrestige"
 	},
 	{
 		"abr": "prestigemarinearmor",
-		"price": 4217,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_ArmorMarinePrestige"
 	},
 	{
 		"abr": "prestigemarinehelmet",
-		"price": 1417,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorMarineHelmetPrestige"
 	},
 	{
 		"abr": "prestigereconarmor",
-		"price": 3292,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorReconPrestige"
 	},
 	{
 		"abr": "prestigereconhelmet",
-		"price": 1192,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetReconPrestige"
 	},
@@ -1754,13 +1754,13 @@
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 1167,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
 	{
 		"abr": "psychicemanator",
-		"price": 2167,
+		"price": -10,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
@@ -1772,37 +1772,37 @@
 	},
 	{
 		"abr": "psychicharmonizer",
-		"price": 1333,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "PsychicHarmonizer"
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": 1083,
+		"price": -10,
 		"category": "Utility",
 		"defname": "Apparel_PsychicInsanityLance"
 	},
 	{
 		"abr": "psychicreader",
-		"price": 1667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "PsychicReader"
 	},
 	{
 		"abr": "psychicsensitizer",
-		"price": 1667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "PsychicSensitizer"
 	},
 	{
 		"abr": "psychicshocklance",
-		"price": 917,
+		"price": -10,
 		"category": "Utility",
 		"defname": "Apparel_PsychicShockLance"
 	},
 	{
 		"abr": "psychicsoothepulser",
-		"price": 1000,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicSoothePulser"
 	},
@@ -2000,7 +2000,7 @@
 	},
 	{
 		"abr": "pumpshotgun",
-		"price": 425,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
 	},
@@ -2030,13 +2030,13 @@
 	},
 	{
 		"abr": "reconarmor",
-		"price": 2567,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorRecon"
 	},
 	{
 		"abr": "reconhelmet",
-		"price": 875,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetRecon"
 	},
@@ -2054,19 +2054,19 @@
 	},
 	{
 		"abr": "reprocessorstomach",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "ReprocessorStomach"
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
 	{
 		"abr": "revolver",
-		"price": 226,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver"
 	},
@@ -2114,19 +2114,19 @@
 	},
 	{
 		"abr": "shieldbelt",
-		"price": 650,
+		"price": -10,
 		"category": "Accessories",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
 		"abr": "shieldcore",
-		"price": 583,
+		"price": -10,
 		"category": "Items",
 		"defname": "BroadshieldCore"
 	},
 	{
 		"abr": "shiplandingbeacon",
-		"price": 185,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipLandingBeacon"
 	},
@@ -2156,13 +2156,13 @@
 	},
 	{
 		"abr": "simpleprostheticarm",
-		"price": 742,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "simpleprostheticleg",
-		"price": 742,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticLeg"
 	},
@@ -2264,13 +2264,13 @@
 	},
 	{
 		"abr": "smokelauncher",
-		"price": 633,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_SmokeLauncher"
 	},
 	{
 		"abr": "smokeshell",
-		"price": 92,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_Smoke"
 	},
@@ -2288,13 +2288,13 @@
 	},
 	{
 		"abr": "smokepoppack",
-		"price": 277,
+		"price": -10,
 		"category": "Accessories",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
 		"abr": "sniperrifle",
-		"price": 883,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
 	},
@@ -2330,25 +2330,25 @@
 	},
 	{
 		"abr": "standinglamp",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp"
 	},
 	{
 		"abr": "standinglamp(blue)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Blue"
 	},
 	{
 		"abr": "standinglamp(green)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Green"
 	},
 	{
 		"abr": "standinglamp(red)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp_Red"
 	},
@@ -2372,7 +2372,7 @@
 	},
 	{
 		"abr": "stoneskingland",
-		"price": 3200,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "StoneskinGland"
 	},
@@ -2384,25 +2384,25 @@
 	},
 	{
 		"abr": "sunlamp",
-		"price": 129,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SunLamp"
 	},
 	{
 		"abr": "surrogateheart",
-		"price": 792,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
 		"abr": "syntheticheart",
-		"price": 1467,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "syntheticstomach",
-		"price": 1183,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicStomach"
 	},
@@ -2438,79 +2438,79 @@
 	},
 	{
 		"abr": "techprint(artificialmetabolism)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_ArtificialMetabolism"
 	},
 	{
 		"abr": "techprint(cataphractarmor)",
-		"price": 5000,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CataphractArmor"
 	},
 	{
 		"abr": "techprint(circadianinfluence)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CircadianInfluence"
 	},
 	{
 		"abr": "techprint(compactweaponry)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CompactWeaponry"
 	},
 	{
 		"abr": "techprint(fleshshaping)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_FleshShaping"
 	},
 	{
 		"abr": "techprint(healingfactors)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_HealingFactors"
 	},
 	{
 		"abr": "techprint(jumppacks)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_JumpPack"
 	},
 	{
 		"abr": "techprint(molecularanalysis)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_MolecularAnalysis"
 	},
 	{
 		"abr": "techprint(neuralcomputation)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_NeuralComputation"
 	},
 	{
 		"abr": "techprint(poisonsynthesis)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_VenomSynthesis"
 	},
 	{
 		"abr": "techprint(skinhardening)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_SkinHardening"
 	},
 	{
 		"abr": "techprint(specializedlimbs)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_SpecializedLimbs"
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": -10,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -2576,7 +2576,7 @@
 	},
 	{
 		"abr": "toughskingland",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "ToughskinGland"
 	},
@@ -2594,7 +2594,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -2606,7 +2606,7 @@
 	},
 	{
 		"abr": "tubetelevision",
-		"price": 525,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "TubeTelevision"
 	},
@@ -2630,7 +2630,7 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
@@ -2648,31 +2648,31 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
 	{
 		"abr": "venomfangs",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "VenomFangs"
 	},
 	{
 		"abr": "venomtalon",
-		"price": 592,
+		"price": -10,
 		"category": "Prosthetic",
 		"defname": "VenomTalon"
 	},
 	{
 		"abr": "vitalsmonitor",
-		"price": 358,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VitalsMonitor"
 	},
 	{
 		"abr": "wake-up",
-		"price": 58,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "WakeUp"
 	},
@@ -2726,7 +2726,7 @@
 	},
 	{
 		"abr": "yayo",
-		"price": 35,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Yayo"
 	},
@@ -2744,19 +2744,19 @@
 	},
 	{
 		"abr": "chemfuelpoweredgenerator",
-		"price": 417,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
 		"abr": "cooler",
-		"price": 458,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Cooler"
 	},
 	{
 		"abr": "electriccrematorium",
-		"price": 700,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ElectricCrematorium"
 	},
@@ -2804,7 +2804,7 @@
 	},
 	{
 		"abr": "advancedvest",
-		"price": 725,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_AdvancedVest"
 	},
@@ -2816,19 +2816,19 @@
 	},
 	{
 		"abr": "aimanager",
-		"price": 7833,
+		"price": -10,
 		"category": "Production",
 		"defname": "FM_AIManager"
 	},
 	{
 		"abr": "air-conindoorunit",
-		"price": 82,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "AirconIndoorUnit"
 	},
 	{
 		"abr": "air-conoutdoorunit",
-		"price": 458,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "AirConOutdoorUnit"
 	},
@@ -2888,13 +2888,13 @@
 	},
 	{
 		"abr": "ammocrate",
-		"price": 533,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VFES_AmmoCrate"
 	},
 	{
 		"abr": "anchovy",
-		"price": 0,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAnchovy"
 	},
@@ -2942,7 +2942,7 @@
 	},
 	{
 		"abr": "anti-armorrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_AntiArmor_Rocket"
 	},
@@ -3068,13 +3068,13 @@
 	},
 	{
 		"abr": "archotechsculpture",
-		"price": 5000,
+		"price": -10,
 		"category": "Art",
 		"defname": "VFE_ArchotechSculpture"
 	},
 	{
 		"abr": "archotechshieldgenerator",
-		"price": 4667,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFES_ShieldGenerator_Archotech"
 	},
@@ -3164,7 +3164,7 @@
 	},
 	{
 		"abr": "artillery",
-		"price": 1408,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_Artillery"
 	},
@@ -3176,7 +3176,7 @@
 	},
 	{
 		"abr": "balaclava",
-		"price": 97,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_Balaclava"
 	},
@@ -3224,7 +3224,7 @@
 	},
 	{
 		"abr": "baseballcap",
-		"price": 77,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_BaseballCap"
 	},
@@ -3308,7 +3308,7 @@
 	},
 	{
 		"abr": "bionicbladder",
-		"price": 1308,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "BionicBladder"
 	},
@@ -3440,13 +3440,13 @@
 	},
 	{
 		"abr": "builder'sjacket",
-		"price": 122,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_BuildersJacket"
 	},
 	{
 		"abr": "bulletproofvest",
-		"price": 1100,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_BulletproofVest"
 	},
@@ -3494,7 +3494,7 @@
 	},
 	{
 		"abr": "canningmachine",
-		"price": 383,
+		"price": -10,
 		"category": "Production",
 		"defname": "VCE_CanningMachine"
 	},
@@ -3530,13 +3530,13 @@
 	},
 	{
 		"abr": "ceilingfan1x1",
-		"price": 184,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "CeilingFanS"
 	},
 	{
 		"abr": "ceilingfan2x2",
-		"price": 184,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "CeilingFan"
 	},
@@ -3560,7 +3560,7 @@
 	},
 	{
 		"abr": "chargeturret",
-		"price": 1342,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_ChargeTurret"
 	},
@@ -3704,7 +3704,7 @@
 	},
 	{
 		"abr": "coal-firedgenerator",
-		"price": 442,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MedTimes_CoalGenerator"
 	},
@@ -3920,13 +3920,13 @@
 	},
 	{
 		"abr": "cryptopistol",
-		"price": 1450,
+		"price": -10,
 		"category": "Crypto weapons",
 		"defname": "VFEV_CryptoPistol"
 	},
 	{
 		"abr": "cryptorifle",
-		"price": 2100,
+		"price": -10,
 		"category": "Crypto weapons",
 		"defname": "VFEV_CryptoRifle"
 	},
@@ -3938,7 +3938,7 @@
 	},
 	{
 		"abr": "cryptosleepsuspender",
-		"price": 767,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_CryptoBed"
 	},
@@ -3998,31 +3998,31 @@
 	},
 	{
 		"abr": "decoy",
-		"price": 140,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_Decoy"
 	},
 	{
 		"abr": "deepfriedfish",
-		"price": 12,
+		"price": -10,
 		"category": "Meals",
 		"defname": "VCE_DeepFriedFish"
 	},
 	{
 		"abr": "deepfriedmeat",
-		"price": 12,
+		"price": -10,
 		"category": "Meals",
 		"defname": "VCE_DeepFriedBigMeat"
 	},
 	{
 		"abr": "deepfriedvegetables",
-		"price": 12,
+		"price": -10,
 		"category": "Meals",
 		"defname": "VCE_DeepFriedVegetables"
 	},
 	{
 		"abr": "deepfryer",
-		"price": 323,
+		"price": -10,
 		"category": "Production",
 		"defname": "VCE_DeepFrier"
 	},
@@ -4046,7 +4046,7 @@
 	},
 	{
 		"abr": "deployableturret",
-		"price": 833,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_FloorTurret"
 	},
@@ -4064,7 +4064,7 @@
 	},
 	{
 		"abr": "digestibleresurrectornanites",
-		"price": 2500,
+		"price": -10,
 		"category": "Condiments",
 		"defname": "VCE_DigestibleResurrectorNanites"
 	},
@@ -4076,7 +4076,7 @@
 	},
 	{
 		"abr": "doctorscrubs",
-		"price": 186,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_DoctorScrubs"
 	},
@@ -4208,43 +4208,43 @@
 	},
 	{
 		"abr": "electricboiler",
-		"price": 425,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ElectricBoiler"
 	},
 	{
 		"abr": "electricbutcher",
-		"price": 492,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_TableButcherElectric"
 	},
 	{
 		"abr": "electricdruglab",
-		"price": 1308,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_TableDrugLabElectric"
 	},
 	{
 		"abr": "electricmetalsmelter",
-		"price": 758,
+		"price": -10,
 		"category": "Production",
 		"defname": "VMEu_ElectricMetalSmelter"
 	},
 	{
 		"abr": "electricpot",
-		"price": 216,
+		"price": -10,
 		"category": "Production",
 		"defname": "VCE_ElectricPot"
 	},
 	{
 		"abr": "electricpump",
-		"price": 316,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ElectricPump"
 	},
 	{
 		"abr": "electricstonecutter'stable",
-		"price": 1033,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_TableStonecutterElectric"
 	},
@@ -4310,19 +4310,19 @@
 	},
 	{
 		"abr": "ergonomicbed",
-		"price": 450,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_Ergonomic"
 	},
 	{
 		"abr": "ergonomicchair",
-		"price": 858,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Seat_ModernChair"
 	},
 	{
 		"abr": "ergonomicdoublebed",
-		"price": 867,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_DoubleErgonomic"
 	},
@@ -4352,7 +4352,7 @@
 	},
 	{
 		"abr": "fabricationcabinet",
-		"price": 433,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFE_FabricationCabinet"
 	},
@@ -4370,7 +4370,7 @@
 	},
 	{
 		"abr": "fedora",
-		"price": 94,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_Fedora"
 	},
@@ -4526,13 +4526,13 @@
 	},
 	{
 		"abr": "flakgoggles",
-		"price": 172,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_BallisticGoggles"
 	},
 	{
 		"abr": "flameturret",
-		"price": 1117,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_Flame"
 	},
@@ -4580,7 +4580,7 @@
 	},
 	{
 		"abr": "fountain",
-		"price": 46,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "Fountain"
 	},
@@ -4676,13 +4676,13 @@
 	},
 	{
 		"abr": "gasboiler",
-		"price": 425,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "GasBoiler"
 	},
 	{
 		"abr": "gasmask",
-		"price": 193,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_GasMask"
 	},
@@ -4706,13 +4706,13 @@
 	},
 	{
 		"abr": "ghilliehood",
-		"price": 153,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_GhillieHood"
 	},
 	{
 		"abr": "ghilliesuit",
-		"price": 342,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_GhillieSuit"
 	},
@@ -4928,7 +4928,7 @@
 	},
 	{
 		"abr": "guppy",
-		"price": 0,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawGuppy"
 	},
@@ -4970,7 +4970,7 @@
 	},
 	{
 		"abr": "hardhat",
-		"price": 164,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_Hardhat"
 	},
@@ -4988,13 +4988,13 @@
 	},
 	{
 		"abr": "hazmathood",
-		"price": 288,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_HAZMATMask"
 	},
 	{
 		"abr": "hazmatsuit",
-		"price": 900,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_HAZMATSuit"
 	},
@@ -5078,7 +5078,7 @@
 	},
 	{
 		"abr": "hologrambase",
-		"price": 475,
+		"price": -10,
 		"category": "Art",
 		"defname": "HologramBase"
 	},
@@ -5126,13 +5126,13 @@
 	},
 	{
 		"abr": "hottub",
-		"price": 800,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "HotTub"
 	},
 	{
 		"abr": "hotwatertank",
-		"price": 195,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "HotWaterTank"
 	},
@@ -5144,13 +5144,13 @@
 	},
 	{
 		"abr": "hydroponicsbasin",
-		"price": 383,
+		"price": -10,
 		"category": "Misc",
 		"defname": "HydroponicsBasin"
 	},
 	{
 		"abr": "hygieneenhancer",
-		"price": 1308,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "HygieneEnhancer"
 	},
@@ -5180,25 +5180,25 @@
 	},
 	{
 		"abr": "industrialammo",
-		"price": 3,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_industrial"
 	},
 	{
 		"abr": "industrialexplosiveammo",
-		"price": 3,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_industrial_fire"
 	},
 	{
 		"abr": "industrialradio",
-		"price": 600,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Radio_Industrial"
 	},
 	{
 		"abr": "industrialspecialammo",
-		"price": 3,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_industrial_emp"
 	},
@@ -5216,7 +5216,7 @@
 	},
 	{
 		"abr": "intravenousdripstand",
-		"price": 316,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Facility_IVDrip"
 	},
@@ -5252,7 +5252,7 @@
 	},
 	{
 		"abr": "irrigationsprinkler",
-		"price": 102,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "IrrigationSprinkler"
 	},
@@ -5324,19 +5324,19 @@
 	},
 	{
 		"abr": "labcoat",
-		"price": 242,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_LabCoat"
 	},
 	{
 		"abr": "lampendtable",
-		"price": 169,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Table_LightEndTable"
 	},
 	{
 		"abr": "landmine",
-		"price": 261,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Landmine"
 	},
@@ -5408,7 +5408,7 @@
 	},
 	{
 		"abr": "largeradiator",
-		"price": 254,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "RadiatorLarge"
 	},
@@ -5426,7 +5426,7 @@
 	},
 	{
 		"abr": "lasersculptingtable",
-		"price": 850,
+		"price": -10,
 		"category": "Production",
 		"defname": "LaserTableSculpting"
 	},
@@ -5546,7 +5546,7 @@
 	},
 	{
 		"abr": "longwaveradio",
-		"price": 1033,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Radio_Spacer"
 	},
@@ -5570,7 +5570,7 @@
 	},
 	{
 		"abr": "machiningcabinet",
-		"price": 483,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VFE_MachiningCabinet"
 	},
@@ -5810,13 +5810,13 @@
 	},
 	{
 		"abr": "marineboots",
-		"price": 808,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_MarineBoots"
 	},
 	{
 		"abr": "marinegloves",
-		"price": 733,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Handwear_MarineGloves"
 	},
@@ -5984,25 +5984,25 @@
 	},
 	{
 		"abr": "militaryberet",
-		"price": 77,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_Beret"
 	},
 	{
 		"abr": "militaryjacket",
-		"price": 425,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_MilitaryJacket"
 	},
 	{
 		"abr": "militaryturret",
-		"price": 842,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_MilitaryTurret"
 	},
 	{
 		"abr": "militaryuniform",
-		"price": 246,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_MilitaryUniform"
 	},
@@ -6014,7 +6014,7 @@
 	},
 	{
 		"abr": "minnow",
-		"price": 0,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMinnow"
 	},
@@ -6068,25 +6068,25 @@
 	},
 	{
 		"abr": "mjollnirstriketargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Utility",
 		"defname": "VFEV_OrbitalTargeterMjollnir"
 	},
 	{
 		"abr": "moderncomputer",
-		"price": 1100,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Joy_ModernComputer"
 	},
 	{
 		"abr": "modernlamp",
-		"price": 129,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Light_ModernLamp"
 	},
 	{
 		"abr": "moderntent",
-		"price": 492,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ModernTent"
 	},
@@ -6152,7 +6152,7 @@
 	},
 	{
 		"abr": "nutrientpastedispenser",
-		"price": 458,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NutrientPasteDispenser"
 	},
@@ -6164,13 +6164,13 @@
 	},
 	{
 		"abr": "oldcomputer",
-		"price": 517,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Joy_InudstrialComputer"
 	},
 	{
 		"abr": "omni-spectrumgoggles",
-		"price": 383,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_NightVisionGoggles"
 	},
@@ -6254,13 +6254,13 @@
 	},
 	{
 		"abr": "over-wallcooler",
-		"price": 458,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Cooler_Over"
 	},
 	{
 		"abr": "over-wallcooler(wide)",
-		"price": 458,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Cooler_Over2W"
 	},
@@ -6398,7 +6398,7 @@
 	},
 	{
 		"abr": "powershower",
-		"price": 170,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ShowerAdvStuff"
 	},
@@ -6452,25 +6452,25 @@
 	},
 	{
 		"abr": "prestigesiegebreakerarmor",
-		"price": 6758,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_RoyalSiegeArmor"
 	},
 	{
 		"abr": "prestigesiegebreakerhelmet",
-		"price": 1958,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_RoyalSiegeHelmet"
 	},
 	{
 		"abr": "prestigetrooperarmor",
-		"price": 2425,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_RoyalTrooperArmor"
 	},
 	{
 		"abr": "prestigetrooperhelmet",
-		"price": 992,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_RoyalTrooperHelmet"
 	},
@@ -6506,13 +6506,13 @@
 	},
 	{
 		"abr": "psychiccornucopia",
-		"price": 1167,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "VFEV_PlantGrowerArtifact"
 	},
 	{
 		"abr": "psychicpylon",
-		"price": 2167,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFES_PsychicPylon"
 	},
@@ -6548,7 +6548,7 @@
 	},
 	{
 		"abr": "radiator",
-		"price": 88,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "RadiatorStuffed"
 	},
@@ -6938,7 +6938,7 @@
 	},
 	{
 		"abr": "searchlight",
-		"price": 608,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_Searchlight"
 	},
@@ -6950,7 +6950,7 @@
 	},
 	{
 		"abr": "sentrygun",
-		"price": 1058,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_SentryGun"
 	},
@@ -6974,13 +6974,13 @@
 	},
 	{
 		"abr": "sheriffshirt",
-		"price": 213,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_SheriffShirt"
 	},
 	{
 		"abr": "shirtandtie",
-		"price": 151,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_ShirtandTie"
 	},
@@ -7016,7 +7016,7 @@
 	},
 	{
 		"abr": "shower",
-		"price": 84,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ShowerStuff"
 	},
@@ -7040,13 +7040,13 @@
 	},
 	{
 		"abr": "siegebreakerarmor",
-		"price": 5367,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_HeavyMarineArmor"
 	},
 	{
 		"abr": "siegebreakerhelmet",
-		"price": 1233,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_HeavyMarineHelmet"
 	},
@@ -7172,7 +7172,7 @@
 	},
 	{
 		"abr": "smallshieldgenerator",
-		"price": 4050,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_ShieldGenerator_Small"
 	},
@@ -7268,19 +7268,19 @@
 	},
 	{
 		"abr": "spacerammo",
-		"price": 4,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_spacer"
 	},
 	{
 		"abr": "spacerexplosiveammo",
-		"price": 4,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_spacer_fire"
 	},
 	{
 		"abr": "spacerspecialammo",
-		"price": 12,
+		"price": -10,
 		"category": "Ammo",
 		"defname": "yy_ammo_spacer_emp"
 	},
@@ -7291,5 +7291,5 @@
 		"defname": "VCE_RawSpices"
 	},
 	],
-	"total": 1399
+	"total": 1400
 }
